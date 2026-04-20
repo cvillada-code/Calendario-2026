@@ -17,9 +17,6 @@ Aplicación de escritorio desarrollada en Python con días festivos, puedes gest
 🆓 Totalmente gratuito
 
 
-
-## 📦 Descarga
-
 Puedes descargar la versión más reciente desde aquí:
 
 👉 Descargar última versión
