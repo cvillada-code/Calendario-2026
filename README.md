@@ -23,7 +23,9 @@ Aplicación de escritorio desarrollada en Python con días festivos, puedes gest
 Puedes descargar la versión más reciente desde aquí:
 
 👉 Descargar última versión
+## 📦 Descargar
 
+[![Descargar](https://img.shields.io/badge/Descargar-v14.14-blue?style=for-the-badge&logo=github)](https://github.com/cvillada-code/Calendario-2026/releases)
 
 ## 🛠️ Cómo usar
 
