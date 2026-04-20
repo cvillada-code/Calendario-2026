@@ -47,9 +47,9 @@ Tkinter (interfaz gráfica)
 
 Integración con Outlook (win32com)
 
-![Primera imágen](001.png)
+![Primera imágen](images/001.png)
 
-![Segunda imágen](002.png)
+![Segunda imágen](images/002.png)
 
 
 ##
